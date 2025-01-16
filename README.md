@@ -52,17 +52,4 @@ This repository houses a collection of machine learning models and algorithms de
 
 **License:**
 
-[Choose a suitable license, e.g., MIT License]
-
-**Contact:**
-
-[Your email address or other contact information]
-
-This README provides a basic framework. You can customize it further by:
-
-* Adding specific details about your project, such as the datasets used, the research questions addressed, and the key findings.
-* Including a more detailed explanation of the code structure and how to use it.
-* Adding a section on how to train and evaluate the models.
-* Including links to relevant publications or presentations.
-
-This README aims to provide a clear and concise overview of your machine learning repository for other developers and researchers.
+NOT LICENSED YET - contact me if you have any questions: fsa06@hotmail.com
